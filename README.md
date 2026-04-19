@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Noah, I'm a universtity student in second year.
+- 👋 Hi, I’m Noah, I'm a universtity student in second year for my master degree.
 - 👀 I’m interested in cyber security , coding and web developpement 
 - 🌱 I’m currently learning  languages at uni and coding on my own.
-- 📫 How to reach me you can use my twitter it is @Noah226669
+- 📫 How to reach me you can't unfortunately for the moment 
 I love to learn new things and maybe I'll share my work too when I'll have a good way to code or web design.
 
 <!---
